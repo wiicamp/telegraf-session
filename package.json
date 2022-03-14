@@ -11,6 +11,7 @@
     "url": "git+https://github.com/ejnshtein/telegraf-session.git"
   },
   "typings": "./typings/index.d.ts",
+  "type": "module",
   "engines": {
     "node": ">=13.5"
   },
